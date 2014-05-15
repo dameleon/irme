@@ -1,0 +1,31 @@
+{
+  "name": "irme",
+  "version": "0.0.0",
+  "description": "Universal IR remote controller web application with IRKit.",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dameleon/irme.git"
+  },
+  "keywords": [
+    "IRKit",
+    "koa",
+    "AngularJS",
+    "App"
+  ],
+  "author": "dameleon <dameleon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dameleon/irme/issues"
+  },
+  "homepage": "https://github.com/dameleon/irme",
+  "dependencies": {
+    "koa": "^0.6.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.6.2"
+  }
+}
